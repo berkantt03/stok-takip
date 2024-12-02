@@ -1,2 +1,2 @@
 # stok-takip
-python ile stok takip uygulması.
+Python ile stok takip uygulması.
